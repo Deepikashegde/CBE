@@ -1,18 +1,18 @@
 [
-    'most_active':{
+    {'most_active':{
         'attacker_king':"Bahubali",
         'defender_king':"Ballaladeva",
         'region':"Mahishmati",
         'name':"Deepika"
-    },
-    'attacker_outcome':{
+    }},
+    {'attacker_outcome':{
         'win':10, // total win
         'loss':4 // total loss
-    },
-    'battle_type':["good","bad","average"], // unique battle types
-    'defender_size':{
+    }},
+    {'battle_type':["good","bad","average"]}, // unique battle types
+    {'defender_size':{
         'average':100,
         'min':10,
         'max':500
-        }
+        }}
     ]
