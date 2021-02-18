@@ -1,4 +1,4 @@
-{
+[
     'most_active':{
         'attacker_king':"Bahubali",
         'defender_king':"Ballaladeva",
@@ -15,4 +15,4 @@
         'min':10,
         'max':500
         }
-    }
+    ]
